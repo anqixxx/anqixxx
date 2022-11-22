@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Anqi Xu!
+### Anqi Xu
 
 > /'ăn.jee xú/
 
