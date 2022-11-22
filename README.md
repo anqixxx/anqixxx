@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > /'ăn.jee xú/
 
-I'm a current Engineering Physics student at the University of British Columbia! Interested in software, physics, science fiction, and discovering more about our universe!
+I'm currently studying Engineering Physics at the University of British Columbia! Interested in software, physics, science fiction, and discovering more about our universe!
 
 <a href="mailto:anqix2002@gmail.com">
   <img align="left" alt="anqi's email!" width="20px" src="https://simpleicons.vercel.app/gmail/495f7e" />
