@@ -26,6 +26,6 @@ I'm currently studying Engineering Physics at the University of British Columbia
   <img align="left" alt="anqi's instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/anqixuu/">
-  <img align="left" alt="anqi's linkedin" width="20px" src="[https://simpleicons.now.sh/linkedin/495f7e](https://icons8.com/icon/98960/linkedin)" />
+  <img align="left" alt="anqi's linkedin" width="20px" src="https://api.iconify.design/logos/linkedin-icon.svg?color=%23495f7e" />
 </a>
 
